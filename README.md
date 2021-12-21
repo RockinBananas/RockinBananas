@@ -4,6 +4,7 @@
 [<img align="left" alt="Email" width="25px" src="gmail.svg" />][email]
 
 <br>
+<br>
 
 I'm currently a freshman at Carnegie Mellon University studying electrical engineering and computer science.
 
