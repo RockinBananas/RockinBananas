@@ -1,4 +1,4 @@
-### Hello! I'm Kevin and I kinda like computers
+### Hello! I'm Kevin and I kinda like computers 💻🎧
 
 I'm currently a freshman at Carnegie Mellon University studying electrical engineering and computer science.
 
