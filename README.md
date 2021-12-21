@@ -6,7 +6,7 @@
 <br>
 <br>
 
-I'm currently a freshman at Carnegie Mellon University studying electrical engineering and computer science.
+I'm currently a freshman at Carnegie Mellon University studying Electrical Engineering and Computer Science.
 
 
 
