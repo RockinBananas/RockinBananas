@@ -8,7 +8,7 @@
 
 I'm currently a freshman at Carnegie Mellon University studying electrical engineering and computer science.
 
-My current and future projects will be on this page.
+
 
 [github]: https://github.com/RockinBananas
 [linkedin]: https://www.linkedin.com/in/yuchan-huang-719391218/
