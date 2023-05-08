@@ -6,10 +6,10 @@
 <br>
 <br>
 
-I'm currently a freshman at Carnegie Mellon University studying Electrical Engineering and Computer Science.
+I'm currently an incoming Junior at Carnegie Mellon University studying Electrical Engineering and Computer Science.
 
 
 
 [github]: https://github.com/RockinBananas
-[linkedin]: https://www.linkedin.com/in/yuchan-huang-719391218/
+[linkedin]: https://www.linkedin.com/in/yuchan-huang/
 [email]: mailto:klightningspare@gmail.com
